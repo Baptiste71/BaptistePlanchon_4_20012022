@@ -3234,12 +3234,12 @@ input[type=search] {
 
 .form-group :valid {
     color: green;
-    opacity: .6;
+    opacity: 1;
 }
 
 .form-group :invalid {
     color: red;
-    opacity: .6;
+    opacity: 1;
 }
 
 
