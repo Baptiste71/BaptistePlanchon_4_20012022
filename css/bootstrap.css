@@ -3233,7 +3233,7 @@ input[type=search] {
 }
 
 .form-group :valid {
-    color: green;
+    color: black;
     opacity: 1;
 }
 
